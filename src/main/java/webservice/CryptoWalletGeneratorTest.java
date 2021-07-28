@@ -30,7 +30,6 @@ public class CryptoWalletGeneratorTest {
         generator(AddType.USDT_TRC20.getType());
         generator(AddType.EOS.getType());
         generator(AddType.BITCOIN_CASH.getType());
-        generator(AddType.QTUM.getType());
         generator(AddType.FILECOIN.getType());
         generator(AddType.BITCOIN_SV.getType());
         generator(AddType.VECHAIN.getType());
