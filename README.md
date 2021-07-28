@@ -7,5 +7,5 @@
   Cosmos(ATOM）、Monero(XMR)、Waves、Ripple(XRP)、BNB、NEO、ONT、Steller(XLM)、POTE、CLUB
 
 
-接口访问频率 （Interface Request Limit）: 
+# 接口访问频率 （Interface Request Limit）
   每秒2次 （2 time every second）
