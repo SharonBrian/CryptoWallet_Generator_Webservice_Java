@@ -13,7 +13,6 @@ public enum AddType {
     USDT_OMNI("usdt_omni"),
     EOS("eos"),
     BITCOIN_CASH("bch"),
-    QTUM("qtum"),
     FILECOIN("fil"),
     BITCOIN_SV("bsv"),
     VECHAIN("vet"),
